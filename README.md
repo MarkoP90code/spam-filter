@@ -1,0 +1,3 @@
+# Spam filer
+
+Some of the things that sees as spam..."free money", "assist me", "10 million dollars",...
